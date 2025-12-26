@@ -1,0 +1,26 @@
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+output/
+evaluation_results/
+
+# Datasets
+datasets/
+datasets/raw/
+
+# PDFs (journal sources)
+pdfs/
+
+# OS
+.DS_Store
+Thumbs.db

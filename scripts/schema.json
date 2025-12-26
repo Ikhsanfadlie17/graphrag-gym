@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    "Exercise",
+    "BodyPart",
+    "Equipment",
+    "ExerciseVariation",
+    "Technique",
+    "CoachingCue",
+    "InjuryRisk",
+    "ScienceConcept"
+  ],
+  "relationships": [
+    "TARGETS",
+    "USES_EQUIPMENT",
+    "INVOLVES",
+    "IMPROVES",
+    "INCREASES",
+    "DECREASES",
+    "LEADS_TO",
+    "CORRELATES_WITH",
+    "AFFECTS",
+    "CAUSES"
+  ]
+}
