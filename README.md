@@ -1,4 +1,4 @@
-# Fitness Recommendation with GraphRAG
+# GraphRAG Gym
 
 An Informatics Engineering thesis project that answers exercise questions using a Neo4j knowledge graph and a language model. The system retrieves exercise context such as target muscles, equipment, and body parts before generating a recommendation.
 
